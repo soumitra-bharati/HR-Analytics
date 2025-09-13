@@ -6,7 +6,7 @@ This project demonstrates proficiency in data visualization, HR analytics, and K
 
 # Features
 
-### Interactive Visualizations: ### Cards, charts (bar, pie, line), and tables for metrics like total employees (1,470), attrition (237), average age (37), median salary ($5,000), and median tenure (5 years).
+Interactive Visualizations: Cards, charts (bar, pie, line), and tables for metrics like total employees (1,470), attrition (237), average age (37), median salary ($5,000), and median tenure (5 years).
 Attrition Breakdowns: By gender (males: 150/63.3%), age group (30-50: 123), education field (Life Sciences: 37.55%), tenure (peaks at year 1: 60), and job roles (Lab Technician: 62 highest).
 Diversity Insights: Gender splits, age distributions, and education field dominance, supporting inclusive reporting.
 Job Satisfaction Analysis: Role-based ratings (e.g., Managers avg. ~2.7), with department rankings (R&D ~3.2 highest, Sales ~2.2 lowest).
